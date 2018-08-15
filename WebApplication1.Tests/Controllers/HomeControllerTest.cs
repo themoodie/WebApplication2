@@ -50,5 +50,11 @@ namespace WebApplication1.Tests.Controllers
             // Assert
             Assert.IsNotNull(result);
         }
+
+        [TestMethod]
+        public void Test()
+        {
+            Assert.IsTrue(false);
+        }
     }
 }
