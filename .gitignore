@@ -1,0 +1,6 @@
+/.vs
+/packages/WebApplication1/bin
+/packages/WebApplication1/obj
+/packages/WebApplication1/App_Data
+/packages/WebApplication1.Tests/bin
+/packages/WebApplication1.Tests/obj
